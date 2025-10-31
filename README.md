@@ -62,3 +62,6 @@ YOLO (You Only Look Once) 形式のデータセットを整理・前処理する
 
 ## 作成者
 [Samurai-Human-Go](https://samurai-human-go.com/%e9%81%8b%e5%96%b6%e8%80%85%e6%83%85%e5%a0%b1/)
+
+## ブログ
+[【PythonでYOLO自動化】面倒なデータセット準備を秒殺！3つの便利スクリプトを公開](https://samurai-human-go.com/python-yolo-dataset-organizer/)
