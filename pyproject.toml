@@ -5,7 +5,11 @@ description = "Add your description here"
 authors = [
     { name = "SamuraiHumanGo_Mac", email = "gotechsamurai@samurai-human-go.com" }
 ]
-dependencies = []
+dependencies = [
+    "ultralytics>=8.3.223",
+    "torchvision>=0.24.0",
+    "torch>=2.9.0",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
