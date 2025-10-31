@@ -1,0 +1,24 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# yolo
+*.pt
+runs/
+annotation_data/
+*.jpg
+*.JPG
+*.jpeg
+*.png
+*.PNG
+*.txt
+train.cache
+val.cache
+data.yaml

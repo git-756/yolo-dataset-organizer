@@ -1,0 +1,7 @@
+# datasets/MyYacht/data.yaml の内容例
+train: /your_directory/yolo-dataset-organizer/yolo_dataset/dataset/images/train  # 訓練用画像ディレクトリへのパス
+val: /your_directory/yolo-dataset-organizer/yolo_dataset/dataset/images/val    # 検証用画像ディレクトリへのパス
+
+# クラス情報
+nc: 1  # クラス数 (今回は "my_class" の1つだけ)
+names: ['my_class'] # クラス名のリスト
